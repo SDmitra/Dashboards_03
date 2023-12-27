@@ -6,6 +6,7 @@ def main():
     import seaborn as sns
     import numpy as np
     import plotly.express as px
+    import random
     
 # Run the app
 if __name__ == "__main__":
